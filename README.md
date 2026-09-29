@@ -34,7 +34,7 @@ Registration Number : 212223220105
 ```
 
 #### MainActivity.java
-```
+```java
 package com.example.sc;
 
 import android.os.Bundle;
